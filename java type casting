@@ -14,7 +14,7 @@ public class Main {
 
 
 
-Narrowing Casting (manual)
+Narrowing Casting (manual) :- to do manually u have to ad a () semicolon 
 double > float > long > int > char > short > byte
 
 public class Main {
