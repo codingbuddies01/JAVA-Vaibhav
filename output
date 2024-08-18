@@ -1,0 +1,9 @@
+public class main {
+public static void main (string[]args) {
+system.out.print("Hello world")}
+// want to print in nxt line just add ln in front of print
+system.out.println("hello world")
+want to print remaining statement in nxt line the use /n
+system.out.println("hello world \n i am learning java")
+    }
+}
