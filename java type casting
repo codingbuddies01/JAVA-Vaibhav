@@ -1,0 +1,5 @@
+Widening Casting 
+byte > short > char > int > long > float > double
+
+Narrowing Casting 
+double > float > long > int > char > short > byte
