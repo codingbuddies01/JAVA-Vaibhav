@@ -1,5 +1,30 @@
-Widening Casting 
+Widening Casting (automatic)
 byte > short > char > int > long > float > double
 
-Narrowing Casting 
+
+public class Main {
+  public static void main(String[] args) {
+    int myInt = 9;
+    double myDouble = myInt;
+
+    System.out.println(myInt);      
+    System.out.println(myDouble);   
+  }
+}
+
+
+
+Narrowing Casting (manual)
 double > float > long > int > char > short > byte
+
+public class Main {
+  public static void main(String[] args) {
+    double myDouble = 9.78d;
+    int myInt = (int) myDouble; 
+
+    System.out.println(myDouble);   
+    System.out.println(myInt);      
+  }
+}
+
+
