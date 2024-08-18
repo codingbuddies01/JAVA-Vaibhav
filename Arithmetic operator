@@ -1,0 +1,76 @@
+1. Addition operator
+public class Main {
+  public static void main(String[] args) {
+    int x = 55;
+    int y = 13;
+    System.out.println(x + y);
+  }
+}
+
+2. Subtration operator 
+
+    public class Main {
+  public static void main(String[] args) {
+    int x = 5;
+    int y = 3;
+    System.out.println(x - y);
+  }
+}
+
+3. Multiplication operator 
+
+   public class Main {
+  public static void main(String[] args) {
+    int x = 5;
+    int y = 3;
+    System.out.println(x * y);
+  }
+}
+
+
+
+4.Division operator
+
+   public class Main {
+  public static void main(String[] args) {
+    int x = 5;
+    int y = 3;
+    System.out.println(x / y);
+  }
+}
+
+
+5. Modulus( give reminder as a answer)
+
+   public class Main {
+  public static void main(String[] args) {
+    int x = 5;
+    int y = 3;
+    System.out.println(x % y);
+  }
+}
+
+
+6. Increment (++x)
+
+
+  public static void main(String[] args) {
+    int x = 5;
+    ++x;
+    System.out.println(x);
+  }
+}
+
+
+7.Decrement operator (--x)
+
+
+  public static void main(String[] args) {
+    int x = 5;
+    ++x;
+    System.out.println(x);
+  }
+}
+
+
+
