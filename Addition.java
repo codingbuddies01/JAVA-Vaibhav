@@ -1,7 +1,7 @@
 class Addition {
   public static void main(String[] args) {
-    int x = 55;
-    int y = 13;
+    int x = 5;
+    int y = 3;
     System.out.println(x + y);
   }
 }
